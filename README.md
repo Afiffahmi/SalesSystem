@@ -42,6 +42,6 @@
 <p>Ordering system</p>
 <img src="https://cdn.discordapp.com/attachments/999735726285525165/999739505928052857/unknown.png" >
 
-<h2>Invoice Page<h2>
+<h2>Invoice Page</h2>
 <p>Generate invoice from order detail that complete in order page</p>
 <img src="https://cdn.discordapp.com/attachments/999735726285525165/999740038558531584/unknown.png" >
