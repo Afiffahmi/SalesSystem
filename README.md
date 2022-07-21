@@ -13,5 +13,5 @@
 
 
 <h2>ERD Diagram</h2>
-<img src="[https://drive.google.com/file/d/1ZppOcEIJ-RFdiNQ03FbCs-n319HZgNbd/view?usp=sharing](https://drive.google.com/file/d/1ZppOcEIJ-RFdiNQ03FbCs-n319HZgNbd/preview)">
+<iframe src="https://drive.google.com/file/d/1ZppOcEIJ-RFdiNQ03FbCs-n319HZgNbd/preview" width="640" height="480" allow="autoplay"></iframe>
 
