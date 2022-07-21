@@ -13,5 +13,5 @@
 
 
 <h2>ERD Diagram</h2>
-<img src="https://drive.google.com/file/d/1ZppOcEIJ-RFdiNQ03FbCs-n319HZgNbd/preview" width="640" height="480" >
+<img src="https://cdn.discordapp.com/attachments/981905970802331680/996804436812898465/unknown.png" width="640" height="480" >
 
